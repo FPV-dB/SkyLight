@@ -1,6 +1,6 @@
 # SkyLight
 
-SkyLight is a native macOS daylight, twilight and astronomy planner for pilots, drone operators, photographers, astronomers, hikers and outdoor users.
+SkyLight is a native macOS daylight, twilight and astronomy planner for photographic work, drone video production, astronomy, aviation planning, hiking, location scouting and other outdoor users who need to understand exactly when the light will change.
 
 It is built with SwiftUI and runs as a local Mac app. Core daylight, twilight and solar calculations happen on-device, with no cloud backend required for the main planning workflow.
 
@@ -28,11 +28,14 @@ It is built with SwiftUI and runs as a local Mac app. Core daylight, twilight an
 
 SkyLight is designed for people who care about light and timing:
 
-- Drone pilots planning legal daylight windows
+- Photographers planning sunrise, sunset, golden hour, blue hour and low-light shoots
+- Drone video makers timing cinematic light, legal daylight windows and safe return-to-home margins
 - GA and recreational pilots checking daylight and twilight context
-- Landscape and urban photographers planning golden hour and blue hour
-- Astronomers checking twilight boundaries
-- Hikers and outdoor users planning around sunrise, sunset and usable light
+- Astronomers checking twilight boundaries, dark-sky windows and moon conditions
+- Filmmakers and location scouts comparing usable light across dates and locations
+- Survey, mapping and inspection crews planning consistent lighting for field captures
+- Hikers, campers and outdoor users planning around sunrise, sunset and usable light
+- Event, wedding and real-estate shooters scheduling exterior work around the best natural light
 
 ## Requirements
 
