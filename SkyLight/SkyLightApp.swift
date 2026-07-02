@@ -6,7 +6,7 @@ struct SkyLightApp: App {
     @Environment(\.openWindow) private var openWindow
 
     var body: some Scene {
-        WindowGroup {
+        WindowGroup(id: "main") {
             ContentView()
                 .environmentObject(model)
         }
